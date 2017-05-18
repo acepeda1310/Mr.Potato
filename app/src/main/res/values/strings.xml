@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mr. Potato</string>
+    <string name="sombrero">SOMBRERO</string>
+    <string name="gafas">GAFAS</string>
+    <string name="activado">ACTIVADO</string>
+    <string name="desactivado">DESACTIVADO</string>
+</resources>
